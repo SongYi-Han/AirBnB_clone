@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/sunnyhan/.local/share/virtualenvs/AirBnB_Django-so1Vp80W/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=88"]
+}
